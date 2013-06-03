@@ -7,7 +7,7 @@ using Sitecore.Web.UI.WebControls;
 using Sitecore.Xml.Xsl;
 using Sitecore.Data.Fields;
 
-namespace PJones.OEmbed.UI.SC
+namespace PJones.OEmbed.SC
 {
 	public class Link : Sitecore.Web.UI.WebControls.FieldControl
 	{
